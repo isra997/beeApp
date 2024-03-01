@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "707322992902",
+    "firebase_url": "https://flutter-app-3481c-default-rtdb.firebaseio.com",
+    "project_id": "flutter-app-3481c",
+    "storage_bucket": "flutter-app-3481c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707322992902:android:f5e4ed528b20abc93ba687",
+        "android_client_info": {
+          "package_name": "com.alexisveloz.push_notificactions"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707322992902-1smt2sganfqk49rsea9fa62nhs23t3kr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alexisveloz.push_notificactions",
+            "certificate_hash": "37f17a3010ebdf95bedba986a8e1893c20f7002f"
+          }
+        },
+        {
+          "client_id": "707322992902-hcc5gf0sm3tu7chkv15382op1l1jjim7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW50l6WizFbwHV9GQ3JyXiJTkfwH45N5M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707322992902-hcc5gf0sm3tu7chkv15382op1l1jjim7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707322992902:android:b0b452025c780cb83ba687",
+        "android_client_info": {
+          "package_name": "com.example.app1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707322992902-hcc5gf0sm3tu7chkv15382op1l1jjim7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW50l6WizFbwHV9GQ3JyXiJTkfwH45N5M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707322992902-hcc5gf0sm3tu7chkv15382op1l1jjim7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
